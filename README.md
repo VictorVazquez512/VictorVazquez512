@@ -1,17 +1,17 @@
-# Hi, I'm [Victor Vázquez](https://www.linkedin.com/in/victorvar)
+# Hi, I'm [Victor Vázquez](https://www.linkedin.com/in/victorvar) 👋
 
 [LinkedIn](https://www.linkedin.com/in/victorvar) | [GitHub](https://github.com/VictorVazquez512) | [Portfolio](https://www.victorvar.com) | <span style="color: blue;">victorhugo.vazquezrojas@gmail.com</span>
 
 
 ------
 
-### About Me
+### About Me 🚀
 
 I'm a Software Engineer with over **3 years of experience** building efficient and scalable web applications.
 
 ------
 
-### Technologies & Skills
+### Technologies & Skills 💻
 
 - **Programming Languages:** ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776ab?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 - **Backend:** ![NestJS](https://img.shields.io/badge/-NestJS-e0234e?logo=nestjs&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092e20?logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47a248?logo=mongodb&logoColor=white)
@@ -34,7 +34,7 @@ I'm a Software Engineer with over **3 years of experience** building efficient a
 - Livestock Management System
 - Internal Freight Management
 
-### Let's Collaborate
+### Let's Collaborate 🫡
 
 Feel free to connect with me for open-source collaborations, tech discussions, or sharing knowledge on web and software development!
 
