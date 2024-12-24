@@ -1,6 +1,6 @@
 # Hi, I'm [Victor Vázquez](https://www.linkedin.com/in/victorvar) 👋
 
-[LinkedIn](https://www.linkedin.com/in/victorvar) | [GitHub](https://github.com/VictorVazquez512) | [Portfolio](https://www.victorvar.com) | <span style="color: blue;">victorhugo.vazquezrojas@gmail.com</span>
+[LinkedIn](https://www.linkedin.com/in/victorvar) | [Portfolio](https://www.victorvar.com) | <span style="color: blue;">victorhugo.vazquezrojas@gmail.com</span>
 
 
 ------
