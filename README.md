@@ -1,7 +1,8 @@
 # Hi, I'm [Victor Vázquez](https://www.linkedin.com/in/victorvar)
 
 These are my professional social media:
-[LinkedIn](https://www.linkedin.com/in/victorvar) | [GitHub](https://github.com/VictorVazquez512) | [Portfolio](https://www.victorvar.com) | [Email](mailto:victorhugo.vazquezrojas@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/victorvar) | [GitHub](https://github.com/VictorVazquez512) | [Portfolio](https://www.victorvar.com) | <span style="color: blue;">victorhugo.vazquezrojas@gmail.com</span>
+
 
 ---
 
