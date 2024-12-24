@@ -23,27 +23,19 @@ I'm a Software Engineer with over **3 years of experience** building efficient a
 
 ### My Experience
 
-#### **- Fullstack Developer** @ SISTEMAS ALM *(March 2023 – Present)*
+#### - Fullstack Developer** @ SISTEMAS ALM *(March 2023 – Present)*
 
-#### **- Backend Developer** @ SISTEMAS ALM *(May 2022 – March 2023)*
+#### - Backend Developer** @ SISTEMAS ALM *(May 2022 – March 2023)*
 
-#### **- Software Engineering Intern** @ SISTEMAS ALM *(Dec 2021 – May 2022)*
+#### - Software Engineering Intern** @ SISTEMAS ALM *(Dec 2021 – May 2022)*
 
 ---
 
 ### Projects
 
-#### **Agroeasy**
-- **Backend:** Designed a packaging and shipping system using NestJS and PostgreSQL.
-- **Frontend:** Contributed features for the React and React Native applications.
-- **Testing:** Automated workflows with Playwright and Postman.
-
-#### **Livestock Management System**
-- Developed a REST API for livestock tracking with Django and PostgreSQL.
-- Contributed to VueJS frontend modules, delivering enhanced user interfaces.
-
-#### **Internal Freight Management**
-- Built a prototype web application modernizing truck and worker monitoring systems.
+#### - [Agroeasy](https://www.agroeasy.com.mx/inicio)
+#### - Livestock Management System
+#### - Internal Freight Management
 
 ### Let's Collaborate
 
