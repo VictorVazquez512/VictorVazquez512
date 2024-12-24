@@ -4,13 +4,13 @@ These are my professional social media:
 [LinkedIn](https://www.linkedin.com/in/victorvar) | [GitHub](https://github.com/VictorVazquez512) | [Portfolio](https://www.victorvar.com) | <span style="color: blue;">victorhugo.vazquezrojas@gmail.com</span>
 
 
----
+------
 
 ### About Me
 
 I'm a Software Engineer with over **3 years of experience** building efficient and scalable web applications.
 
----
+------
 
 ### Technologies & Skills
 
@@ -19,23 +19,21 @@ I'm a Software Engineer with over **3 years of experience** building efficient a
 - **Frontend:** ![Vue.js](https://img.shields.io/badge/-Vue.js-4fc08d?logo=vue.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61dafb?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572b6?logo=css3&logoColor=white) ![Playwright](https://img.shields.io/badge/-Playwright-2c0f75?logo=microsoftedge&logoColor=white)
 - **Tools:** ![Git](https://img.shields.io/badge/-Git-f05032?logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-fcc624?logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/-Postman-ff6c37?logo=postman&logoColor=white) ![JMeter](https://img.shields.io/badge/-JMeter-d22128?logo=apachejmeter&logoColor=white)
 
----
+------
 
 ### My Experience
 
-#### - Fullstack Developer** @ SISTEMAS ALM *(March 2023 – Present)*
+- Fullstack Developer @ SISTEMAS ALM (March 2023 – Present)
+- Backend Developer @ SISTEMAS ALM (May 2022 – March 2023)
+- Software Engineering Intern @ SISTEMAS ALM (Dec 2021 – May 2022)
 
-#### - Backend Developer** @ SISTEMAS ALM *(May 2022 – March 2023)*
-
-#### - Software Engineering Intern** @ SISTEMAS ALM *(Dec 2021 – May 2022)*
-
----
+------
 
 ### Projects
 
-#### - [Agroeasy](https://www.agroeasy.com.mx/inicio)
-#### - Livestock Management System
-#### - Internal Freight Management
+- [Agroeasy](https://www.agroeasy.com.mx/inicio)
+- Livestock Management System
+- Internal Freight Management
 
 ### Let's Collaborate
 
